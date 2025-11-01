@@ -131,27 +131,22 @@ npx expo start
 
 ## 🎨 Screenshots
 
-<div align="center">
+<p align="left">
+    <img src="assets/images/dashboard.png" alt="Dashboard" width="300" />
+    <img src="assets/images/Ledger.png" alt="Trip Ledger" width="300" />
+</p>
 
 ### 🏠 Dashboard
-
-<img src="assets/images/dashboard.png" alt="Dashboard" width="250"/>
-
 *Real-time analytics with platform breakdown and EPH tracking*
-
 ### 📝 Trip Ledger
-
-<img src="assets/images/Ledger.png" alt="Ledger" width="250"/>
-
 *Easy trip logging with recent history*
 
 ### 🔐 Authentication
 
-<img src="assets/images/auth.png" alt="Auth" width="250"/>
+<img src="assets/images/auth.png" alt="Auth" width="300"/>
 
 *Secure email/password login*
 
-</div>
 
 ---
 
