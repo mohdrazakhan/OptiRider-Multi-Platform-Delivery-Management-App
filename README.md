@@ -62,7 +62,8 @@ graph LR
 
 - ✅ Trip logging with platform, earnings & duration
 - ✅ Real-time Firebase Firestore sync
-- ✅ Dashboard with key metrics (Total Earnings, EPH, Trip Count)
+- ✅ Dashboar
+rics (Total Earnings, EPH, Trip Count)
 - ✅ Platform-wise breakdown with visual percentages
 - ✅ Smart insights & milestone tracking
 - ✅ Secure authentication (Email/Password)
@@ -134,19 +135,19 @@ npx expo start
 
 ### 🏠 Dashboard
 
-<img src="https://via.placeholder.com/300x600/4F46E5/FFFFFF?text=Smart+Dashboard" alt="Dashboard" width="250"/>
+<img src="assets/images/dashboard.png" alt="Dashboard" width="250"/>
 
 *Real-time analytics with platform breakdown and EPH tracking*
 
 ### 📝 Trip Ledger
 
-<img src="https://via.placeholder.com/300x600/10B981/FFFFFF?text=Trip+Ledger" alt="Ledger" width="250"/>
+<img src="assets/images/Ledger.png" alt="Ledger" width="250"/>
 
 *Easy trip logging with recent history*
 
 ### 🔐 Authentication
 
-<img src="https://via.placeholder.com/300x600/FDBF00/000000?text=Welcome+Screen" alt="Auth" width="250"/>
+<img src="assets/images/auth.png" alt="Auth" width="250"/>
 
 *Secure email/password login*
 
@@ -215,9 +216,22 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📜 License
+## 📜 License & Patent Notice
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is **open to community contributions** (pull requests welcome). Usage terms are as follows:
+
+- ✅ Allowed: Personal, educational, academic coursework, and evaluation/research use
+- 🟠 Commercial/production use: **Requires prior written permission** from the rights holders
+- 🔒 All copyrights and patent rights are reserved by the owners listed below
+
+### 🧾 Patent
+
+- Patent Publication: https://www.mohdrazakhan.me/asset/patent_publish.pdf
+- Inventors: **Mohd Raza Khan** and **Jayanti Kumari**
+- Applicant/Assignee: **Sharda University, Greater Noida, Uttar Pradesh**
+- Project Guides: **Prof. (Dr.) Parma Nand** (Pro VC, Sharda University) and **Dr. Rani Astya** (Associate Professor)
+
+This repository and its source code do **not** grant any license under the above patent. Any commercial use or distribution must be licensed separately by the rights holders. For permissions, please contact: **mohdrazakhan32@gmail.com**.
 
 ---
 
@@ -242,7 +256,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues? We're here to help!
 
-- 📧 Email: support@optirider.com
+- 📧 Email: mohdrazakhan32@gmail.com
+- 🌐 website: https://mohdrazakhan.me/projects/optirider
 - 🐛 [Report a Bug](https://github.com/mohdrazakhan/OptiRider-Multi-Platform-Delivery-Management-App/issues)
 - 💡 [Request a Feature](https://github.com/mohdrazakhan/OptiRider-Multi-Platform-Delivery-Management-App/issues/new?labels=enhancement)
 
@@ -252,7 +267,8 @@ Having issues? We're here to help!
 
 ### 💖 Built with Love for Delivery Riders
 
-**Made in India 🇮🇳 | B.Tech Major Project 2025**
+**Mohd Raza Khan| B.Tech Major Project 2025**
+**Made in India 🇮🇳**
 
 <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
 <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge" alt="Powered by Coffee"/>
